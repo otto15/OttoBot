@@ -34,7 +34,7 @@ class BotHandler:
 
 token = '552736937:AAFgGH-2tJeHK-gAc1mwAlosz3BHPL7G27s'
 greet_bot = BotHandler(token)
-greetings = ('здравствуй', 'привет', 'ку', 'здорово')
+greetings = ('здравствуй', 'привет', 'ку', 'здорово', 'hello')
 now = datetime.datetime.now()
 
 
